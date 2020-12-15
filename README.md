@@ -1,16 +1,20 @@
-### Hi there 👋
+## About me
 
-<!--
-**hakimzenata/hakimzenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I live in Paris (France). 
 
-Here are some ideas to get you started:
+I love both theorical and practical computer science. Which means I find pleasure in solving abstract maths
+problems but I also love to cheat and use a computer to solve problems for me. 
+My favorite programming language are [python][python] [c++].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hakimzenata)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<center>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimzenata&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+
+</center>
+
+
+
+  [c++]: https://isocpp.org/
+  [python]: https://www.python.org/
